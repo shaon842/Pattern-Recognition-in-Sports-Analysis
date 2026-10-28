@@ -1,0 +1,1001 @@
+Match ID,Team 1,Team 2,Team 1 Runs,Team 2 Runs,Team 1 Wickets,Team 2 Wickets,Venue,Winner
+1,Australia,Afghanistan,270,175,10,10,Cape Town,Australia
+2,India,South Africa,303,222,7,2,Kabul,India
+3,West Indies,Australia,285,200,6,2,Cape Town,West Indies
+4,Bangladesh,England,268,239,8,7,Dhaka,Bangladesh
+5,South Africa,Sri Lanka,324,238,7,7,Mumbai,South Africa
+6,South Africa,Sri Lanka,200,210,1,4,Cape Town,Sri Lanka
+7,New Zealand,India,400,189,5,4,Cape Town,New Zealand
+8,England,Afghanistan,210,334,0,7,Sydney,Afghanistan
+9,India,England,371,331,0,7,Dhaka,India
+10,Afghanistan,England,300,279,2,5,Kingston,Afghanistan
+11,New Zealand,England,358,319,5,9,Colombo,New Zealand
+12,Pakistan,India,168,234,10,6,Colombo,India
+13,Bangladesh,India,354,192,1,2,Mumbai,Bangladesh
+14,Pakistan,South Africa,171,194,7,0,Auckland,South Africa
+15,Australia,England,237,260,7,6,Sydney,England
+16,Sri Lanka,New Zealand,201,218,3,5,Dhaka,New Zealand
+17,Afghanistan,New Zealand,246,386,5,3,Kingston,New Zealand
+18,New Zealand,West Indies,177,158,2,8,Sydney,New Zealand
+19,Bangladesh,England,191,150,4,5,Kingston,Bangladesh
+20,Sri Lanka,Bangladesh,150,380,4,5,Dhaka,Bangladesh
+21,West Indies,India,202,262,2,3,Karachi,India
+22,Sri Lanka,England,288,370,2,6,Kabul,England
+23,England,South Africa,192,351,6,7,Colombo,South Africa
+24,Afghanistan,England,320,358,10,2,Kabul,England
+25,Bangladesh,New Zealand,191,269,9,7,London,New Zealand
+26,Australia,England,264,338,2,2,London,England
+27,Bangladesh,West Indies,357,172,1,9,Dhaka,Bangladesh
+28,South Africa,Afghanistan,183,389,3,3,Kingston,Afghanistan
+29,Sri Lanka,India,343,176,4,9,Auckland,Sri Lanka
+30,Australia,Pakistan,221,221,8,8,Cape Town,Pakistan
+31,England,Bangladesh,212,336,10,10,Karachi,Bangladesh
+32,New Zealand,Bangladesh,265,286,0,7,Colombo,Bangladesh
+33,New Zealand,South Africa,318,258,6,5,Kingston,New Zealand
+34,Sri Lanka,Australia,218,342,4,6,London,Australia
+35,Pakistan,South Africa,168,202,3,4,Dhaka,South Africa
+36,Sri Lanka,Australia,295,290,5,1,Colombo,Sri Lanka
+37,Pakistan,Afghanistan,384,177,6,9,Dhaka,Pakistan
+38,New Zealand,West Indies,261,162,9,1,Kingston,New Zealand
+39,Sri Lanka,Afghanistan,370,287,6,5,Colombo,Sri Lanka
+40,Sri Lanka,Pakistan,347,385,2,9,Karachi,Pakistan
+41,Sri Lanka,Pakistan,242,349,9,9,Kabul,Pakistan
+42,Sri Lanka,India,152,269,5,7,Sydney,India
+43,West Indies,India,202,150,9,8,Cape Town,West Indies
+44,Afghanistan,West Indies,252,241,10,1,Sydney,Afghanistan
+45,Sri Lanka,Pakistan,233,249,6,1,Cape Town,Pakistan
+46,England,Sri Lanka,323,201,6,5,Mumbai,England
+47,Sri Lanka,England,290,290,6,3,Colombo,England
+48,West Indies,Pakistan,227,385,0,8,Auckland,Pakistan
+49,Pakistan,South Africa,378,189,2,7,Colombo,Pakistan
+50,India,Sri Lanka,279,234,8,7,Kabul,India
+51,Australia,West Indies,238,211,2,8,Colombo,Australia
+52,West Indies,Pakistan,338,171,4,0,Dhaka,West Indies
+53,Pakistan,India,157,329,5,5,Mumbai,India
+54,England,Australia,205,234,5,4,Mumbai,Australia
+55,Pakistan,West Indies,157,181,3,8,Kingston,West Indies
+56,New Zealand,Pakistan,293,379,4,9,Sydney,Pakistan
+57,West Indies,South Africa,354,191,4,4,Mumbai,West Indies
+58,England,Australia,185,330,0,5,Colombo,Australia
+59,Bangladesh,Afghanistan,179,384,8,2,Kabul,Afghanistan
+60,England,Afghanistan,311,393,7,3,Auckland,Afghanistan
+61,South Africa,New Zealand,337,213,9,8,Kingston,South Africa
+62,West Indies,Australia,399,376,0,6,Sydney,West Indies
+63,Sri Lanka,South Africa,321,344,3,8,Kingston,South Africa
+64,India,South Africa,286,345,1,6,Mumbai,South Africa
+65,Afghanistan,West Indies,397,175,0,3,Colombo,Afghanistan
+66,Bangladesh,Pakistan,345,338,7,7,Kabul,Bangladesh
+67,Pakistan,South Africa,324,157,3,0,Mumbai,Pakistan
+68,India,Sri Lanka,228,151,5,2,Cape Town,India
+69,Pakistan,West Indies,271,368,0,8,Mumbai,West Indies
+70,Bangladesh,New Zealand,364,204,1,5,Sydney,Bangladesh
+71,New Zealand,Sri Lanka,226,152,8,4,Dhaka,New Zealand
+72,Australia,Afghanistan,353,157,2,1,Kabul,Australia
+73,West Indies,Bangladesh,158,372,3,9,Kingston,Bangladesh
+74,Afghanistan,Bangladesh,209,384,2,8,Colombo,Bangladesh
+75,Australia,Pakistan,175,359,7,4,Dhaka,Pakistan
+76,England,India,239,372,2,2,Sydney,India
+77,Bangladesh,South Africa,276,276,1,6,Cape Town,South Africa
+78,West Indies,India,357,317,7,7,Karachi,West Indies
+79,South Africa,West Indies,267,202,0,0,Karachi,South Africa
+80,England,India,247,366,10,7,Mumbai,India
+81,South Africa,West Indies,245,243,9,1,Colombo,South Africa
+82,New Zealand,South Africa,190,386,4,8,Mumbai,South Africa
+83,India,New Zealand,337,326,5,4,Karachi,India
+84,Pakistan,Afghanistan,194,154,0,2,Dhaka,Pakistan
+85,Pakistan,Sri Lanka,250,360,2,10,Karachi,Sri Lanka
+86,Australia,Pakistan,331,303,0,6,Kingston,Australia
+87,West Indies,Sri Lanka,238,208,1,3,Auckland,West Indies
+88,India,Bangladesh,294,168,9,5,Kabul,India
+89,South Africa,Afghanistan,259,380,6,5,Dhaka,Afghanistan
+90,Afghanistan,Pakistan,255,281,3,2,Sydney,Pakistan
+91,Sri Lanka,Pakistan,302,385,8,10,London,Pakistan
+92,Sri Lanka,Pakistan,381,301,0,10,Karachi,Sri Lanka
+93,Sri Lanka,India,174,270,6,3,Auckland,India
+94,Sri Lanka,England,272,259,9,2,London,Sri Lanka
+95,West Indies,Afghanistan,242,296,7,1,Cape Town,Afghanistan
+96,South Africa,Australia,385,175,1,1,Karachi,South Africa
+97,Sri Lanka,India,268,178,10,2,Kabul,Sri Lanka
+98,New Zealand,Afghanistan,373,244,4,5,Kingston,New Zealand
+99,Afghanistan,Sri Lanka,320,232,1,9,Colombo,Afghanistan
+100,Sri Lanka,South Africa,202,300,10,1,Kabul,South Africa
+101,Australia,West Indies,265,374,2,10,Mumbai,West Indies
+102,India,New Zealand,265,277,9,6,Cape Town,New Zealand
+103,Afghanistan,India,252,311,8,9,Karachi,India
+104,South Africa,Sri Lanka,348,314,2,2,Kabul,South Africa
+105,South Africa,Australia,252,285,1,8,Colombo,Australia
+106,Bangladesh,New Zealand,169,174,10,8,Sydney,New Zealand
+107,Australia,Sri Lanka,227,205,3,0,Sydney,Australia
+108,Pakistan,Sri Lanka,307,188,1,0,Karachi,Pakistan
+109,Australia,South Africa,251,239,8,5,Sydney,Australia
+110,New Zealand,Pakistan,390,260,3,7,Colombo,New Zealand
+111,Bangladesh,Australia,176,172,3,1,Dhaka,Bangladesh
+112,England,Pakistan,330,205,9,4,Sydney,England
+113,Afghanistan,South Africa,183,166,10,10,London,Afghanistan
+114,England,Sri Lanka,305,371,10,0,Kabul,Sri Lanka
+115,India,Afghanistan,396,201,4,10,Colombo,India
+116,England,West Indies,213,288,10,3,Mumbai,West Indies
+117,West Indies,South Africa,382,291,7,10,Kingston,West Indies
+118,West Indies,India,184,367,7,0,Kingston,India
+119,West Indies,Australia,396,199,6,2,Sydney,West Indies
+120,Pakistan,Sri Lanka,301,393,4,7,Dhaka,Sri Lanka
+121,South Africa,West Indies,255,384,8,6,London,West Indies
+122,India,Australia,365,180,6,2,Sydney,India
+123,England,Afghanistan,257,272,7,8,London,Afghanistan
+124,England,Afghanistan,180,246,10,10,Colombo,Afghanistan
+125,Sri Lanka,Bangladesh,176,220,10,3,Colombo,Bangladesh
+126,West Indies,Sri Lanka,384,305,3,6,Kabul,West Indies
+127,Bangladesh,New Zealand,396,284,8,0,Colombo,Bangladesh
+128,England,Afghanistan,373,311,1,6,Colombo,England
+129,Pakistan,New Zealand,247,384,4,3,Kabul,New Zealand
+130,South Africa,Pakistan,361,259,7,3,Dhaka,South Africa
+131,India,West Indies,319,316,0,7,London,India
+132,South Africa,Afghanistan,292,383,8,10,Auckland,Afghanistan
+133,Afghanistan,Pakistan,395,223,9,7,Karachi,Afghanistan
+134,New Zealand,West Indies,205,301,6,5,Kabul,West Indies
+135,New Zealand,West Indies,249,176,4,1,Kingston,New Zealand
+136,Pakistan,Australia,157,231,4,9,Colombo,Australia
+137,England,Bangladesh,378,194,4,9,Karachi,England
+138,Australia,Afghanistan,383,182,1,10,Cape Town,Australia
+139,Australia,South Africa,366,156,1,9,Sydney,Australia
+140,India,New Zealand,383,170,0,0,Colombo,India
+141,West Indies,Sri Lanka,155,383,4,9,Mumbai,Sri Lanka
+142,England,India,397,300,7,0,Sydney,England
+143,Bangladesh,Afghanistan,379,172,3,4,Cape Town,Bangladesh
+144,Pakistan,India,239,283,9,3,Dhaka,India
+145,Pakistan,New Zealand,192,225,5,10,Auckland,New Zealand
+146,New Zealand,Bangladesh,260,259,5,0,Sydney,New Zealand
+147,Bangladesh,India,288,150,1,0,Colombo,Bangladesh
+148,West Indies,Australia,383,395,10,0,Karachi,Australia
+149,Pakistan,Bangladesh,208,330,10,0,Colombo,Bangladesh
+150,New Zealand,England,359,301,10,4,Auckland,New Zealand
+151,India,Pakistan,334,348,4,9,Auckland,Pakistan
+152,Afghanistan,South Africa,337,241,3,4,Kingston,Afghanistan
+153,New Zealand,West Indies,233,156,2,1,Karachi,New Zealand
+154,India,South Africa,242,357,3,10,London,South Africa
+155,India,Bangladesh,291,255,5,0,Kingston,India
+156,India,New Zealand,178,265,5,3,Mumbai,New Zealand
+157,South Africa,Sri Lanka,156,335,2,10,Dhaka,Sri Lanka
+158,Pakistan,New Zealand,233,383,0,3,Mumbai,New Zealand
+159,New Zealand,Afghanistan,305,399,10,7,Kabul,Afghanistan
+160,West Indies,England,388,163,1,1,Sydney,West Indies
+161,India,Australia,164,289,8,4,London,Australia
+162,Bangladesh,South Africa,197,363,7,7,Dhaka,South Africa
+163,India,Pakistan,302,217,8,9,Cape Town,India
+164,Sri Lanka,New Zealand,362,273,4,0,Colombo,Sri Lanka
+165,India,England,250,376,7,3,Colombo,England
+166,England,Australia,317,253,1,5,Mumbai,England
+167,Afghanistan,Sri Lanka,338,323,3,2,London,Afghanistan
+168,Australia,Pakistan,270,339,8,3,Kingston,Pakistan
+169,Sri Lanka,England,260,340,5,2,Sydney,England
+170,Bangladesh,India,207,156,3,0,Colombo,Bangladesh
+171,South Africa,Sri Lanka,161,170,5,6,Cape Town,Sri Lanka
+172,West Indies,Pakistan,316,195,3,4,Mumbai,West Indies
+173,Sri Lanka,New Zealand,389,250,2,5,Auckland,Sri Lanka
+174,South Africa,West Indies,254,257,4,0,Auckland,West Indies
+175,Pakistan,New Zealand,275,379,4,5,Karachi,New Zealand
+176,New Zealand,West Indies,384,393,10,3,Auckland,West Indies
+177,India,South Africa,378,313,0,4,Mumbai,India
+178,South Africa,Pakistan,300,399,0,10,Karachi,Pakistan
+179,Bangladesh,India,310,222,10,2,London,Bangladesh
+180,Sri Lanka,India,177,240,4,6,Karachi,India
+181,West Indies,Sri Lanka,166,392,7,5,Kabul,Sri Lanka
+182,New Zealand,Pakistan,236,387,9,10,Colombo,Pakistan
+183,Afghanistan,South Africa,313,284,7,6,Sydney,Afghanistan
+184,India,Afghanistan,366,215,3,3,Dhaka,India
+185,India,Pakistan,400,291,4,1,Kabul,India
+186,Australia,India,344,243,9,6,Kingston,Australia
+187,South Africa,West Indies,156,201,7,3,Kabul,West Indies
+188,Sri Lanka,Pakistan,248,380,9,7,London,Pakistan
+189,Bangladesh,India,381,155,8,2,Kingston,Bangladesh
+190,West Indies,Australia,184,281,1,7,Karachi,Australia
+191,West Indies,Pakistan,288,327,8,10,Karachi,Pakistan
+192,Bangladesh,Pakistan,267,194,2,0,Sydney,Bangladesh
+193,India,West Indies,393,229,9,2,Kingston,India
+194,Bangladesh,New Zealand,337,360,3,0,Sydney,New Zealand
+195,Sri Lanka,New Zealand,157,217,5,5,Kingston,New Zealand
+196,India,New Zealand,268,195,2,8,Auckland,India
+197,England,India,321,195,10,1,Mumbai,England
+198,England,New Zealand,327,277,7,10,Cape Town,England
+199,West Indies,Pakistan,301,217,7,3,Auckland,West Indies
+200,Australia,Pakistan,178,189,5,9,Dhaka,Pakistan
+201,Sri Lanka,England,188,347,6,4,Cape Town,England
+202,India,Pakistan,334,367,4,6,Kingston,Pakistan
+203,New Zealand,England,273,257,1,1,Mumbai,New Zealand
+204,India,Pakistan,397,286,1,2,Auckland,India
+205,Afghanistan,Australia,340,319,1,6,Sydney,Afghanistan
+206,South Africa,Afghanistan,219,193,6,1,Colombo,South Africa
+207,South Africa,India,241,258,9,2,Sydney,India
+208,West Indies,South Africa,368,276,3,7,Kingston,West Indies
+209,Afghanistan,New Zealand,179,327,5,3,Sydney,New Zealand
+210,Australia,New Zealand,252,276,7,9,Sydney,New Zealand
+211,Australia,Pakistan,284,304,2,0,Karachi,Pakistan
+212,Afghanistan,South Africa,293,368,8,10,London,South Africa
+213,England,Sri Lanka,167,389,7,5,Kabul,Sri Lanka
+214,Sri Lanka,New Zealand,159,347,9,6,Auckland,New Zealand
+215,Afghanistan,England,260,341,1,8,Mumbai,England
+216,India,Bangladesh,303,387,5,8,Dhaka,Bangladesh
+217,Australia,India,331,327,4,9,Colombo,Australia
+218,Sri Lanka,Australia,390,188,7,10,Auckland,Sri Lanka
+219,Pakistan,Sri Lanka,301,330,8,10,Kingston,Sri Lanka
+220,Afghanistan,South Africa,215,254,8,0,Kingston,South Africa
+221,Australia,Pakistan,296,323,8,7,Kingston,Pakistan
+222,Pakistan,South Africa,232,281,9,1,Colombo,South Africa
+223,South Africa,India,273,261,8,9,Colombo,South Africa
+224,England,New Zealand,232,277,9,10,Auckland,New Zealand
+225,Bangladesh,India,247,165,2,2,Auckland,Bangladesh
+226,India,Pakistan,201,222,2,2,Sydney,Pakistan
+227,West Indies,Bangladesh,207,308,0,2,Sydney,Bangladesh
+228,Afghanistan,Australia,173,398,1,8,Sydney,Australia
+229,Sri Lanka,Australia,196,245,8,8,Cape Town,Australia
+230,West Indies,Australia,343,307,5,10,London,West Indies
+231,Afghanistan,Bangladesh,366,188,5,10,Auckland,Afghanistan
+232,Afghanistan,South Africa,235,327,8,0,London,South Africa
+233,Pakistan,Bangladesh,220,154,5,1,Auckland,Pakistan
+234,New Zealand,South Africa,369,197,7,5,Mumbai,New Zealand
+235,New Zealand,South Africa,156,262,5,4,Kingston,South Africa
+236,Pakistan,New Zealand,203,162,8,6,Mumbai,Pakistan
+237,England,Bangladesh,241,311,10,1,Mumbai,Bangladesh
+238,Pakistan,West Indies,196,218,5,10,Karachi,West Indies
+239,West Indies,New Zealand,269,296,0,7,Kabul,New Zealand
+240,New Zealand,Australia,241,331,7,1,Cape Town,Australia
+241,West Indies,Sri Lanka,156,331,8,3,Sydney,Sri Lanka
+242,England,Bangladesh,163,373,9,9,Sydney,Bangladesh
+243,South Africa,England,258,183,10,9,Kabul,South Africa
+244,New Zealand,West Indies,204,162,8,6,Karachi,New Zealand
+245,New Zealand,England,238,296,4,7,London,England
+246,India,Afghanistan,367,286,7,0,Colombo,India
+247,South Africa,West Indies,365,332,5,4,Kingston,South Africa
+248,India,South Africa,341,391,3,4,Kabul,South Africa
+249,West Indies,England,382,201,5,10,Mumbai,West Indies
+250,Bangladesh,Pakistan,243,360,5,8,Cape Town,Pakistan
+251,Pakistan,West Indies,334,352,4,0,Dhaka,West Indies
+252,Australia,West Indies,231,389,6,5,Sydney,West Indies
+253,Sri Lanka,England,214,380,8,0,London,England
+254,India,Australia,342,335,4,5,Kabul,India
+255,Pakistan,New Zealand,173,233,7,2,Mumbai,New Zealand
+256,India,England,169,157,0,8,Sydney,India
+257,Bangladesh,South Africa,315,341,4,3,Sydney,South Africa
+258,South Africa,Afghanistan,336,238,3,0,Sydney,South Africa
+259,West Indies,Sri Lanka,240,185,1,2,Karachi,West Indies
+260,Pakistan,Afghanistan,380,161,8,9,Auckland,Pakistan
+261,New Zealand,Australia,226,255,10,3,Dhaka,Australia
+262,New Zealand,Bangladesh,301,250,10,7,London,New Zealand
+263,India,Afghanistan,184,295,6,6,Colombo,Afghanistan
+264,Bangladesh,Australia,225,160,3,10,Auckland,Bangladesh
+265,Sri Lanka,Bangladesh,185,324,1,9,Karachi,Bangladesh
+266,Afghanistan,New Zealand,282,396,1,0,Mumbai,New Zealand
+267,India,Australia,376,223,2,9,Dhaka,India
+268,India,Australia,226,349,5,9,Cape Town,Australia
+269,West Indies,Australia,290,260,9,10,Mumbai,West Indies
+270,West Indies,New Zealand,267,277,3,1,Kingston,New Zealand
+271,Bangladesh,Sri Lanka,171,396,0,2,London,Sri Lanka
+272,England,West Indies,392,323,3,6,Mumbai,England
+273,New Zealand,West Indies,182,332,7,9,London,West Indies
+274,South Africa,England,375,310,4,3,Kingston,South Africa
+275,Australia,South Africa,179,257,7,10,Kingston,South Africa
+276,New Zealand,England,293,294,7,6,Auckland,England
+277,Afghanistan,England,226,392,5,5,Sydney,England
+278,South Africa,England,199,210,2,0,Kingston,England
+279,Australia,India,399,230,10,7,Sydney,Australia
+280,South Africa,England,237,236,5,5,Sydney,South Africa
+281,West Indies,Afghanistan,248,393,5,3,Karachi,Afghanistan
+282,Afghanistan,India,245,290,5,3,Kabul,India
+283,England,South Africa,366,365,5,0,Sydney,England
+284,New Zealand,Bangladesh,295,150,3,2,Auckland,New Zealand
+285,Bangladesh,South Africa,316,378,1,1,Cape Town,South Africa
+286,India,Afghanistan,305,202,4,10,Mumbai,India
+287,India,Afghanistan,271,320,6,7,Karachi,Afghanistan
+288,New Zealand,West Indies,354,310,5,4,Dhaka,New Zealand
+289,Sri Lanka,South Africa,333,349,8,5,Colombo,South Africa
+290,Bangladesh,South Africa,193,201,5,5,Karachi,South Africa
+291,Bangladesh,England,232,214,8,0,London,Bangladesh
+292,Sri Lanka,South Africa,203,358,9,8,Dhaka,South Africa
+293,Australia,Pakistan,196,199,8,9,Mumbai,Pakistan
+294,New Zealand,Australia,308,383,9,0,Kingston,Australia
+295,Australia,Pakistan,358,317,3,10,Auckland,Australia
+296,Australia,India,152,173,0,7,London,India
+297,Australia,England,274,152,1,10,Dhaka,Australia
+298,Sri Lanka,Pakistan,310,154,10,10,Mumbai,Sri Lanka
+299,Pakistan,Bangladesh,218,262,4,8,Cape Town,Bangladesh
+300,India,Australia,164,319,10,7,Sydney,Australia
+301,Bangladesh,India,194,358,8,9,London,India
+302,Sri Lanka,West Indies,281,330,0,8,Mumbai,West Indies
+303,West Indies,Bangladesh,343,277,2,7,Kabul,West Indies
+304,New Zealand,Sri Lanka,375,167,5,8,Dhaka,New Zealand
+305,West Indies,Sri Lanka,315,372,3,3,Mumbai,Sri Lanka
+306,Afghanistan,India,251,318,10,7,Colombo,India
+307,Sri Lanka,India,341,325,0,5,Karachi,Sri Lanka
+308,Afghanistan,Australia,230,367,4,5,Sydney,Australia
+309,India,England,207,230,7,4,Karachi,England
+310,Afghanistan,Pakistan,358,364,2,9,Sydney,Pakistan
+311,Afghanistan,South Africa,217,236,2,7,Kingston,South Africa
+312,Sri Lanka,West Indies,153,304,8,2,Kingston,West Indies
+313,India,Pakistan,207,184,2,0,Kingston,India
+314,Afghanistan,South Africa,319,369,3,4,Cape Town,South Africa
+315,South Africa,Australia,168,160,0,9,Kabul,South Africa
+316,New Zealand,Bangladesh,155,231,7,4,Auckland,Bangladesh
+317,Australia,Bangladesh,382,219,9,4,Auckland,Australia
+318,India,New Zealand,263,370,4,6,Auckland,New Zealand
+319,Afghanistan,India,238,343,0,3,Sydney,India
+320,Pakistan,England,196,275,5,2,Kingston,England
+321,Afghanistan,England,319,226,4,4,Dhaka,Afghanistan
+322,India,Afghanistan,208,394,4,9,Kabul,Afghanistan
+323,Bangladesh,Afghanistan,291,213,10,9,Sydney,Bangladesh
+324,New Zealand,England,209,254,9,3,London,England
+325,Australia,Afghanistan,166,329,3,5,Sydney,Afghanistan
+326,South Africa,West Indies,280,239,10,5,Auckland,South Africa
+327,West Indies,England,253,187,7,9,Cape Town,West Indies
+328,Pakistan,Australia,389,254,6,5,Karachi,Pakistan
+329,Sri Lanka,India,288,184,7,8,Sydney,Sri Lanka
+330,Australia,Sri Lanka,166,326,1,6,Kingston,Sri Lanka
+331,England,Pakistan,290,232,3,8,Cape Town,England
+332,Pakistan,Bangladesh,304,194,6,3,Mumbai,Pakistan
+333,Sri Lanka,West Indies,180,310,4,7,Cape Town,West Indies
+334,New Zealand,Australia,241,287,10,6,Kabul,Australia
+335,Afghanistan,Australia,169,392,8,9,Cape Town,Australia
+336,Sri Lanka,Afghanistan,289,336,0,10,Sydney,Afghanistan
+337,England,Pakistan,168,374,6,7,Auckland,Pakistan
+338,Australia,India,267,386,0,4,Auckland,India
+339,Pakistan,Australia,367,261,5,2,Sydney,Pakistan
+340,Bangladesh,Australia,183,221,5,2,London,Australia
+341,West Indies,Afghanistan,221,214,5,10,London,West Indies
+342,England,Bangladesh,314,217,7,2,Dhaka,England
+343,Australia,England,161,382,8,5,Cape Town,England
+344,South Africa,England,332,221,9,6,Cape Town,South Africa
+345,Pakistan,Bangladesh,221,280,8,7,Cape Town,Bangladesh
+346,New Zealand,South Africa,244,248,0,9,Mumbai,South Africa
+347,Pakistan,Afghanistan,278,271,4,10,Dhaka,Pakistan
+348,New Zealand,England,216,188,2,10,Kingston,New Zealand
+349,India,West Indies,250,368,7,2,Cape Town,West Indies
+350,Afghanistan,Pakistan,304,372,5,1,Mumbai,Pakistan
+351,Pakistan,Sri Lanka,194,244,3,4,Colombo,Sri Lanka
+352,West Indies,Sri Lanka,254,229,0,6,London,West Indies
+353,Pakistan,New Zealand,391,160,10,6,Kabul,Pakistan
+354,Pakistan,England,283,272,2,3,Mumbai,Pakistan
+355,India,West Indies,385,212,7,8,Auckland,India
+356,South Africa,Pakistan,322,332,9,3,London,Pakistan
+357,Pakistan,West Indies,178,376,4,9,Mumbai,West Indies
+358,Sri Lanka,New Zealand,246,397,2,5,Mumbai,New Zealand
+359,New Zealand,Sri Lanka,296,227,6,7,Auckland,New Zealand
+360,Sri Lanka,Afghanistan,239,364,6,7,London,Afghanistan
+361,Pakistan,Bangladesh,189,397,2,9,Colombo,Bangladesh
+362,Pakistan,South Africa,328,248,5,5,Kingston,Pakistan
+363,Australia,England,308,307,3,7,Dhaka,Australia
+364,England,West Indies,186,334,6,8,Dhaka,West Indies
+365,South Africa,New Zealand,319,326,5,10,Dhaka,New Zealand
+366,India,Sri Lanka,187,298,4,8,Kingston,Sri Lanka
+367,India,England,274,313,0,1,Sydney,England
+368,Afghanistan,India,161,156,2,4,Dhaka,Afghanistan
+369,Pakistan,New Zealand,270,180,0,6,Sydney,Pakistan
+370,Afghanistan,India,167,352,10,4,Sydney,India
+371,England,Afghanistan,276,335,9,5,Colombo,Afghanistan
+372,South Africa,West Indies,309,205,10,9,Karachi,South Africa
+373,New Zealand,South Africa,329,181,6,8,Karachi,New Zealand
+374,Pakistan,India,151,334,8,8,Karachi,India
+375,Australia,Bangladesh,268,190,6,2,Auckland,Australia
+376,Australia,Bangladesh,191,376,0,2,Kabul,Bangladesh
+377,South Africa,Sri Lanka,255,207,6,3,Dhaka,South Africa
+378,Afghanistan,India,374,183,2,2,Sydney,Afghanistan
+379,Australia,Pakistan,301,252,4,3,Kingston,Australia
+380,Bangladesh,Sri Lanka,397,264,0,10,Mumbai,Bangladesh
+381,India,Bangladesh,295,165,10,2,Dhaka,India
+382,South Africa,Sri Lanka,248,253,8,7,Karachi,Sri Lanka
+383,Australia,England,310,173,3,5,Kingston,Australia
+384,Bangladesh,Sri Lanka,321,378,0,9,Kabul,Sri Lanka
+385,Afghanistan,West Indies,279,209,4,6,Cape Town,Afghanistan
+386,New Zealand,Afghanistan,281,236,10,10,Kabul,New Zealand
+387,Australia,England,205,233,4,7,Kingston,England
+388,Bangladesh,Sri Lanka,256,155,10,5,Colombo,Bangladesh
+389,South Africa,England,177,211,8,10,Kabul,England
+390,England,Afghanistan,269,237,5,2,Dhaka,England
+391,New Zealand,Pakistan,160,293,1,5,Kabul,Pakistan
+392,India,England,260,159,9,0,Cape Town,India
+393,India,England,188,255,7,10,Dhaka,England
+394,Pakistan,Bangladesh,196,252,1,0,Auckland,Bangladesh
+395,Bangladesh,Sri Lanka,261,272,4,7,Auckland,Sri Lanka
+396,New Zealand,Pakistan,269,247,4,6,Kabul,New Zealand
+397,New Zealand,Pakistan,162,168,0,10,Mumbai,Pakistan
+398,Afghanistan,England,257,265,5,8,Kabul,England
+399,England,South Africa,302,296,8,2,Colombo,England
+400,India,England,232,354,4,1,Colombo,England
+401,New Zealand,West Indies,380,207,5,6,Mumbai,New Zealand
+402,Afghanistan,West Indies,230,341,2,5,Cape Town,West Indies
+403,South Africa,Australia,153,332,0,10,Dhaka,Australia
+404,Afghanistan,Pakistan,363,175,9,6,Dhaka,Afghanistan
+405,Afghanistan,Australia,288,343,1,8,London,Australia
+406,Sri Lanka,South Africa,195,247,4,1,London,South Africa
+407,Sri Lanka,England,333,386,10,6,Sydney,England
+408,England,South Africa,255,251,2,10,Cape Town,England
+409,West Indies,Pakistan,224,327,1,7,Dhaka,Pakistan
+410,England,New Zealand,205,232,6,0,Auckland,New Zealand
+411,India,Australia,187,273,4,9,Kabul,Australia
+412,Afghanistan,England,380,191,5,8,Kabul,Afghanistan
+413,West Indies,Afghanistan,265,384,0,5,Cape Town,Afghanistan
+414,India,New Zealand,199,234,9,6,London,New Zealand
+415,England,Australia,375,154,2,1,Karachi,England
+416,Sri Lanka,South Africa,376,287,6,4,Mumbai,Sri Lanka
+417,West Indies,Sri Lanka,186,162,6,4,Cape Town,West Indies
+418,West Indies,Australia,334,209,8,4,Auckland,West Indies
+419,West Indies,Australia,339,296,7,0,Colombo,West Indies
+420,Afghanistan,Bangladesh,307,372,10,7,Dhaka,Bangladesh
+421,South Africa,Pakistan,237,384,5,10,Sydney,Pakistan
+422,Pakistan,Australia,287,251,0,10,Kabul,Pakistan
+423,Australia,India,255,172,10,3,Colombo,Australia
+424,Sri Lanka,India,266,162,2,10,Kabul,Sri Lanka
+425,Pakistan,Afghanistan,180,400,6,8,Cape Town,Afghanistan
+426,England,West Indies,299,160,1,5,Dhaka,England
+427,England,India,384,355,2,2,Sydney,England
+428,Sri Lanka,South Africa,283,290,4,5,Auckland,South Africa
+429,South Africa,Afghanistan,281,385,10,4,Karachi,Afghanistan
+430,India,New Zealand,332,341,1,0,London,New Zealand
+431,West Indies,Bangladesh,216,238,3,3,London,Bangladesh
+432,England,India,171,346,7,4,Kabul,India
+433,New Zealand,Australia,270,171,8,8,Dhaka,New Zealand
+434,Sri Lanka,South Africa,304,390,8,0,London,South Africa
+435,Bangladesh,Sri Lanka,196,289,10,3,Kingston,Sri Lanka
+436,Afghanistan,India,243,276,5,4,Kabul,India
+437,Afghanistan,India,152,230,10,0,Mumbai,India
+438,Pakistan,West Indies,193,195,10,3,London,West Indies
+439,England,Bangladesh,334,350,7,1,Karachi,Bangladesh
+440,Sri Lanka,Australia,268,368,4,9,Karachi,Australia
+441,South Africa,Afghanistan,231,163,1,2,London,South Africa
+442,Sri Lanka,West Indies,274,308,6,6,Colombo,West Indies
+443,Pakistan,Sri Lanka,321,259,8,3,Mumbai,Pakistan
+444,South Africa,New Zealand,300,273,3,4,Mumbai,South Africa
+445,India,Pakistan,169,305,0,2,Colombo,Pakistan
+446,South Africa,West Indies,342,256,4,0,Karachi,South Africa
+447,Pakistan,India,173,381,1,1,Cape Town,India
+448,England,New Zealand,246,232,1,9,Mumbai,England
+449,South Africa,Australia,301,278,8,6,Karachi,South Africa
+450,England,Sri Lanka,231,367,0,9,London,Sri Lanka
+451,Sri Lanka,New Zealand,238,232,0,9,Kingston,Sri Lanka
+452,Pakistan,Bangladesh,327,366,4,10,Auckland,Bangladesh
+453,India,Afghanistan,150,285,6,4,Colombo,Afghanistan
+454,West Indies,Bangladesh,289,253,0,2,Colombo,West Indies
+455,New Zealand,South Africa,187,158,3,8,Dhaka,New Zealand
+456,West Indies,Bangladesh,319,342,3,8,Dhaka,Bangladesh
+457,New Zealand,South Africa,218,399,9,1,Kabul,South Africa
+458,South Africa,Bangladesh,153,232,1,6,London,Bangladesh
+459,Pakistan,India,246,391,5,9,Kingston,India
+460,South Africa,Bangladesh,201,237,4,0,London,Bangladesh
+461,England,New Zealand,225,363,4,2,Mumbai,New Zealand
+462,South Africa,New Zealand,308,248,8,8,Kabul,South Africa
+463,West Indies,Bangladesh,327,344,7,1,Sydney,Bangladesh
+464,New Zealand,West Indies,348,274,6,5,Cape Town,New Zealand
+465,Sri Lanka,South Africa,186,321,10,6,Cape Town,South Africa
+466,Sri Lanka,England,334,306,3,1,Kabul,Sri Lanka
+467,Pakistan,Afghanistan,195,245,0,1,Colombo,Afghanistan
+468,Sri Lanka,West Indies,273,241,9,10,Karachi,Sri Lanka
+469,Pakistan,New Zealand,262,213,3,9,Mumbai,Pakistan
+470,Australia,Afghanistan,271,388,9,3,Auckland,Afghanistan
+471,West Indies,Australia,368,216,0,4,Kabul,West Indies
+472,South Africa,Pakistan,352,256,10,4,Kingston,South Africa
+473,Pakistan,New Zealand,251,178,7,8,Cape Town,Pakistan
+474,Afghanistan,Pakistan,289,334,9,10,London,Pakistan
+475,Australia,England,175,225,0,2,Karachi,England
+476,South Africa,Sri Lanka,186,271,1,1,Kingston,Sri Lanka
+477,Bangladesh,Afghanistan,254,230,2,5,Karachi,Bangladesh
+478,England,Sri Lanka,223,187,5,6,Dhaka,England
+479,Sri Lanka,Australia,352,243,1,10,Kingston,Sri Lanka
+480,Pakistan,Afghanistan,384,326,6,5,Mumbai,Pakistan
+481,Afghanistan,Bangladesh,294,158,0,7,Auckland,Afghanistan
+482,West Indies,South Africa,242,323,1,4,Colombo,South Africa
+483,West Indies,South Africa,325,252,9,7,Cape Town,West Indies
+484,Afghanistan,South Africa,398,212,5,2,Mumbai,Afghanistan
+485,Bangladesh,Afghanistan,400,252,4,4,Sydney,Bangladesh
+486,South Africa,Australia,241,368,2,1,Mumbai,Australia
+487,West Indies,India,381,176,1,8,Dhaka,West Indies
+488,New Zealand,Afghanistan,327,170,9,8,Mumbai,New Zealand
+489,Pakistan,Sri Lanka,359,394,8,4,Dhaka,Sri Lanka
+490,Afghanistan,England,165,220,4,4,Karachi,England
+491,New Zealand,Sri Lanka,290,204,0,4,Kingston,New Zealand
+492,India,England,366,293,3,7,Mumbai,India
+493,Sri Lanka,Bangladesh,297,153,3,10,Auckland,Sri Lanka
+494,India,New Zealand,219,301,5,3,Karachi,New Zealand
+495,Pakistan,New Zealand,257,216,8,3,Kabul,Pakistan
+496,South Africa,Pakistan,161,180,2,7,Kabul,Pakistan
+497,South Africa,England,284,331,5,0,Dhaka,England
+498,West Indies,Pakistan,375,312,2,10,London,West Indies
+499,New Zealand,Bangladesh,292,207,4,1,Colombo,New Zealand
+500,New Zealand,Afghanistan,177,151,0,5,Kabul,New Zealand
+501,Bangladesh,India,158,316,9,1,Kabul,India
+502,Bangladesh,India,204,388,9,7,London,India
+503,Sri Lanka,India,309,157,0,10,Mumbai,Sri Lanka
+504,India,Bangladesh,227,377,10,2,Dhaka,Bangladesh
+505,Sri Lanka,West Indies,197,381,2,5,Dhaka,West Indies
+506,India,West Indies,384,361,7,3,Cape Town,India
+507,South Africa,West Indies,256,201,4,4,Colombo,South Africa
+508,South Africa,England,166,233,6,10,Karachi,England
+509,Sri Lanka,West Indies,154,311,10,6,Karachi,West Indies
+510,South Africa,Bangladesh,343,358,7,4,Colombo,Bangladesh
+511,New Zealand,India,400,270,2,4,London,New Zealand
+512,South Africa,Sri Lanka,399,384,7,2,Auckland,South Africa
+513,West Indies,New Zealand,201,210,3,10,Karachi,New Zealand
+514,Australia,England,377,208,10,7,Auckland,Australia
+515,West Indies,Sri Lanka,350,258,4,10,Cape Town,West Indies
+516,South Africa,India,349,275,10,2,London,South Africa
+517,West Indies,Australia,199,278,4,8,Colombo,Australia
+518,West Indies,Pakistan,381,178,9,3,Karachi,West Indies
+519,Pakistan,India,376,262,9,10,Mumbai,Pakistan
+520,South Africa,West Indies,398,340,9,9,Dhaka,South Africa
+521,Australia,Sri Lanka,263,344,7,7,Karachi,Sri Lanka
+522,Bangladesh,Sri Lanka,350,166,10,5,Kabul,Bangladesh
+523,West Indies,South Africa,322,342,5,0,London,South Africa
+524,West Indies,Sri Lanka,219,268,2,6,Mumbai,Sri Lanka
+525,Afghanistan,West Indies,250,322,9,0,Dhaka,West Indies
+526,Australia,Pakistan,370,357,6,10,Karachi,Australia
+527,England,Bangladesh,186,287,9,9,Mumbai,Bangladesh
+528,Sri Lanka,Bangladesh,302,381,3,0,Auckland,Bangladesh
+529,Afghanistan,Australia,216,319,5,7,Cape Town,Australia
+530,West Indies,Bangladesh,158,201,7,0,Colombo,Bangladesh
+531,England,New Zealand,209,171,1,10,Kingston,England
+532,New Zealand,Afghanistan,279,371,5,1,Cape Town,Afghanistan
+533,England,India,208,180,0,2,Colombo,England
+534,Bangladesh,Sri Lanka,283,187,5,8,Dhaka,Bangladesh
+535,South Africa,Sri Lanka,287,391,2,0,Kingston,Sri Lanka
+536,India,Bangladesh,390,296,7,6,Mumbai,India
+537,South Africa,Australia,175,170,8,2,Dhaka,South Africa
+538,Australia,Pakistan,202,312,3,4,Colombo,Pakistan
+539,New Zealand,West Indies,273,330,1,8,Auckland,West Indies
+540,New Zealand,Bangladesh,156,175,1,5,Dhaka,Bangladesh
+541,Pakistan,India,377,277,4,4,Mumbai,Pakistan
+542,Bangladesh,West Indies,234,279,0,10,Sydney,West Indies
+543,West Indies,Afghanistan,181,306,0,0,Kabul,Afghanistan
+544,New Zealand,Bangladesh,376,183,7,10,Colombo,New Zealand
+545,South Africa,India,242,232,8,6,Auckland,South Africa
+546,Australia,India,354,196,10,3,Kingston,Australia
+547,Sri Lanka,New Zealand,259,161,6,1,Colombo,Sri Lanka
+548,West Indies,Pakistan,276,217,0,1,Kingston,West Indies
+549,England,South Africa,274,395,5,0,Mumbai,South Africa
+550,Australia,Afghanistan,294,317,6,1,Mumbai,Afghanistan
+551,India,South Africa,348,263,1,4,London,India
+552,New Zealand,India,314,212,3,6,Kingston,New Zealand
+553,Sri Lanka,Afghanistan,214,228,1,9,Auckland,Afghanistan
+554,Australia,Sri Lanka,194,322,1,8,Dhaka,Sri Lanka
+555,India,Pakistan,259,313,0,6,Karachi,Pakistan
+556,South Africa,Afghanistan,249,276,5,9,Colombo,Afghanistan
+557,South Africa,Bangladesh,204,284,0,6,Auckland,Bangladesh
+558,Bangladesh,New Zealand,297,234,1,8,Dhaka,Bangladesh
+559,Pakistan,New Zealand,365,237,5,3,London,Pakistan
+560,Pakistan,Australia,346,203,3,0,Colombo,Pakistan
+561,South Africa,Pakistan,361,210,9,5,Kingston,South Africa
+562,Pakistan,Sri Lanka,293,334,4,9,Sydney,Sri Lanka
+563,Sri Lanka,West Indies,163,179,9,7,Cape Town,West Indies
+564,Bangladesh,Sri Lanka,185,328,8,1,London,Sri Lanka
+565,Sri Lanka,India,180,215,7,1,Kabul,India
+566,New Zealand,Sri Lanka,291,157,10,5,Mumbai,New Zealand
+567,Afghanistan,England,217,360,5,2,London,England
+568,Sri Lanka,New Zealand,235,276,6,1,Cape Town,New Zealand
+569,Sri Lanka,West Indies,164,323,8,2,Dhaka,West Indies
+570,South Africa,Pakistan,309,287,2,8,Sydney,South Africa
+571,South Africa,Australia,391,338,1,2,Kingston,South Africa
+572,Australia,West Indies,343,228,9,0,Sydney,Australia
+573,India,Pakistan,223,195,8,3,Cape Town,India
+574,India,Australia,261,151,8,9,Colombo,India
+575,England,Sri Lanka,154,196,2,9,Kingston,Sri Lanka
+576,New Zealand,Afghanistan,193,348,10,0,Sydney,Afghanistan
+577,India,Pakistan,221,259,5,10,Kabul,Pakistan
+578,India,Bangladesh,311,150,5,3,Cape Town,India
+579,Bangladesh,Pakistan,390,247,3,7,Sydney,Bangladesh
+580,Australia,Sri Lanka,178,169,8,2,Kabul,Australia
+581,England,India,273,312,1,0,Mumbai,India
+582,India,South Africa,384,288,3,2,Sydney,India
+583,Bangladesh,India,350,310,6,6,London,Bangladesh
+584,Sri Lanka,New Zealand,280,173,9,8,Auckland,Sri Lanka
+585,Afghanistan,West Indies,378,210,8,0,Karachi,Afghanistan
+586,West Indies,India,250,251,10,5,Cape Town,India
+587,Australia,Bangladesh,229,308,8,6,Colombo,Bangladesh
+588,Australia,Sri Lanka,227,235,3,8,Colombo,Sri Lanka
+589,South Africa,India,187,255,7,5,Auckland,India
+590,West Indies,Pakistan,384,198,8,1,Auckland,West Indies
+591,England,New Zealand,204,236,4,6,London,New Zealand
+592,England,New Zealand,196,384,1,5,Cape Town,New Zealand
+593,Australia,Bangladesh,169,363,7,3,Karachi,Bangladesh
+594,India,Bangladesh,399,346,3,5,Mumbai,India
+595,Sri Lanka,India,368,363,8,7,Sydney,Sri Lanka
+596,Afghanistan,South Africa,304,203,0,1,Cape Town,Afghanistan
+597,Bangladesh,Sri Lanka,371,240,6,2,Dhaka,Bangladesh
+598,Pakistan,England,151,385,2,4,Sydney,England
+599,Australia,Sri Lanka,232,330,6,3,Kingston,Sri Lanka
+600,West Indies,Pakistan,165,267,10,0,Karachi,Pakistan
+601,South Africa,India,157,382,8,1,Sydney,India
+602,India,England,194,397,8,0,London,England
+603,Bangladesh,South Africa,162,159,10,5,Dhaka,Bangladesh
+604,New Zealand,India,201,397,3,1,Karachi,India
+605,Australia,South Africa,256,212,10,8,Mumbai,Australia
+606,Bangladesh,Australia,254,246,2,0,Sydney,Bangladesh
+607,New Zealand,South Africa,280,389,7,10,Kingston,South Africa
+608,West Indies,India,215,237,10,5,Auckland,India
+609,Sri Lanka,England,320,333,1,2,Kabul,England
+610,West Indies,New Zealand,220,214,0,3,Auckland,West Indies
+611,Pakistan,Bangladesh,366,301,1,4,Sydney,Pakistan
+612,Sri Lanka,Australia,292,307,8,8,London,Australia
+613,West Indies,Pakistan,244,322,4,5,Kabul,Pakistan
+614,Bangladesh,New Zealand,247,286,4,7,Auckland,New Zealand
+615,Pakistan,Sri Lanka,246,209,2,0,Kabul,Pakistan
+616,Pakistan,New Zealand,247,231,8,5,London,Pakistan
+617,Australia,Pakistan,186,298,2,3,Auckland,Pakistan
+618,New Zealand,Pakistan,153,175,7,9,Karachi,Pakistan
+619,India,West Indies,370,262,7,1,Sydney,India
+620,Bangladesh,New Zealand,255,324,8,5,Cape Town,New Zealand
+621,Afghanistan,West Indies,250,167,2,10,Kabul,Afghanistan
+622,England,India,174,287,2,7,Mumbai,India
+623,Bangladesh,India,251,379,4,0,Sydney,India
+624,Bangladesh,Pakistan,178,364,8,2,London,Pakistan
+625,South Africa,New Zealand,250,168,8,5,Cape Town,South Africa
+626,Sri Lanka,West Indies,150,243,3,1,Mumbai,West Indies
+627,England,India,236,357,7,10,Karachi,India
+628,West Indies,Afghanistan,201,232,7,2,Kabul,Afghanistan
+629,England,Bangladesh,247,162,10,6,Cape Town,England
+630,New Zealand,Sri Lanka,312,376,2,5,Kingston,Sri Lanka
+631,Australia,England,305,333,7,8,Kingston,England
+632,Australia,Afghanistan,328,231,10,1,Karachi,Australia
+633,South Africa,Bangladesh,301,199,4,0,Auckland,South Africa
+634,Australia,South Africa,360,340,4,4,Auckland,Australia
+635,India,South Africa,376,374,5,1,Karachi,India
+636,Pakistan,South Africa,320,321,4,2,Sydney,South Africa
+637,Pakistan,South Africa,370,296,9,3,Karachi,Pakistan
+638,England,Australia,276,319,2,4,Colombo,Australia
+639,West Indies,England,331,338,7,0,Sydney,England
+640,England,West Indies,372,333,1,9,Karachi,England
+641,New Zealand,England,333,276,8,1,Sydney,New Zealand
+642,Australia,West Indies,244,219,2,3,Mumbai,Australia
+643,New Zealand,Afghanistan,203,282,1,1,Kabul,Afghanistan
+644,India,Pakistan,363,281,1,5,Kabul,India
+645,Bangladesh,India,371,171,7,9,Kabul,Bangladesh
+646,England,West Indies,170,260,10,6,Mumbai,West Indies
+647,Australia,Bangladesh,339,245,0,0,London,Australia
+648,South Africa,Afghanistan,200,241,7,7,Cape Town,Afghanistan
+649,Australia,South Africa,300,355,1,10,Kabul,South Africa
+650,Australia,Pakistan,263,387,10,5,London,Pakistan
+651,South Africa,England,364,392,6,3,Dhaka,England
+652,England,Bangladesh,357,188,6,6,Cape Town,England
+653,New Zealand,Afghanistan,388,163,7,6,Kabul,New Zealand
+654,South Africa,New Zealand,357,344,3,8,Cape Town,South Africa
+655,Afghanistan,South Africa,351,341,6,4,Kingston,Afghanistan
+656,England,Pakistan,310,353,3,8,Karachi,Pakistan
+657,Australia,Afghanistan,236,381,0,6,Sydney,Afghanistan
+658,South Africa,Pakistan,200,348,3,0,Sydney,Pakistan
+659,England,Australia,311,233,9,2,Auckland,England
+660,South Africa,India,218,363,4,0,Sydney,India
+661,Bangladesh,Australia,373,333,7,10,Colombo,Bangladesh
+662,Sri Lanka,New Zealand,277,327,4,2,Mumbai,New Zealand
+663,Afghanistan,England,227,225,1,3,Karachi,Afghanistan
+664,Sri Lanka,Pakistan,294,264,1,7,Mumbai,Sri Lanka
+665,New Zealand,Bangladesh,319,227,10,5,Kabul,New Zealand
+666,India,Sri Lanka,246,213,8,1,Colombo,India
+667,Bangladesh,Sri Lanka,170,394,3,8,Mumbai,Sri Lanka
+668,South Africa,Sri Lanka,279,377,9,10,Auckland,Sri Lanka
+669,Sri Lanka,England,187,234,7,8,Dhaka,England
+670,Australia,England,338,214,2,7,Kingston,Australia
+671,England,Bangladesh,299,395,1,4,Auckland,Bangladesh
+672,India,South Africa,227,394,1,2,Colombo,South Africa
+673,India,Australia,171,216,9,10,Kabul,Australia
+674,England,India,202,184,9,3,Cape Town,England
+675,Afghanistan,India,164,291,5,9,Karachi,India
+676,South Africa,Pakistan,290,266,9,0,Kingston,South Africa
+677,Afghanistan,South Africa,380,315,8,0,Auckland,Afghanistan
+678,South Africa,Afghanistan,324,153,6,2,Kabul,South Africa
+679,Afghanistan,Pakistan,286,175,0,0,Kingston,Afghanistan
+680,Afghanistan,South Africa,172,238,4,4,Colombo,South Africa
+681,Australia,Sri Lanka,357,252,6,9,Sydney,Australia
+682,Australia,Sri Lanka,217,249,3,2,Mumbai,Sri Lanka
+683,Afghanistan,India,205,182,5,5,Dhaka,Afghanistan
+684,England,Pakistan,153,367,2,8,Colombo,Pakistan
+685,Sri Lanka,Bangladesh,237,309,6,10,Dhaka,Bangladesh
+686,New Zealand,South Africa,356,383,10,5,Mumbai,South Africa
+687,England,Pakistan,376,155,0,4,Karachi,England
+688,Sri Lanka,England,288,372,10,4,Colombo,England
+689,West Indies,Afghanistan,271,226,1,9,Kingston,West Indies
+690,Bangladesh,Sri Lanka,400,295,9,3,London,Bangladesh
+691,Bangladesh,Afghanistan,198,312,1,2,Cape Town,Afghanistan
+692,India,Australia,346,304,10,2,Dhaka,India
+693,South Africa,Pakistan,354,225,8,10,Kabul,South Africa
+694,Afghanistan,Australia,177,388,9,9,Colombo,Australia
+695,South Africa,Sri Lanka,177,193,4,7,Kingston,Sri Lanka
+696,South Africa,Australia,264,366,9,0,Dhaka,Australia
+697,West Indies,Bangladesh,250,342,9,0,Mumbai,Bangladesh
+698,West Indies,Bangladesh,195,295,7,4,Kabul,Bangladesh
+699,South Africa,Sri Lanka,256,297,8,7,Mumbai,Sri Lanka
+700,West Indies,South Africa,345,223,5,10,Colombo,West Indies
+701,Sri Lanka,South Africa,351,169,8,8,Dhaka,Sri Lanka
+702,Australia,West Indies,281,230,2,4,Kabul,Australia
+703,Sri Lanka,Australia,255,335,6,6,Cape Town,Australia
+704,South Africa,Afghanistan,188,283,6,3,Cape Town,Afghanistan
+705,Australia,Pakistan,192,330,4,0,Kabul,Pakistan
+706,Pakistan,Bangladesh,179,160,4,6,Kingston,Pakistan
+707,West Indies,Bangladesh,239,303,4,2,Karachi,Bangladesh
+708,West Indies,Afghanistan,252,382,9,9,London,Afghanistan
+709,India,New Zealand,189,366,8,5,Karachi,New Zealand
+710,Pakistan,Afghanistan,262,366,10,3,Cape Town,Afghanistan
+711,Bangladesh,India,340,359,6,10,London,India
+712,Sri Lanka,Afghanistan,226,183,0,5,Kingston,Sri Lanka
+713,Bangladesh,England,378,246,10,5,Auckland,Bangladesh
+714,West Indies,Pakistan,304,218,3,9,Auckland,West Indies
+715,Afghanistan,Bangladesh,356,241,0,0,Colombo,Afghanistan
+716,England,Bangladesh,260,394,0,2,London,Bangladesh
+717,Afghanistan,India,292,398,6,3,Colombo,India
+718,West Indies,New Zealand,397,279,4,5,Karachi,West Indies
+719,Pakistan,South Africa,357,360,7,5,Auckland,South Africa
+720,Afghanistan,Australia,349,237,8,2,Kabul,Afghanistan
+721,India,Pakistan,263,219,0,2,London,India
+722,Bangladesh,Australia,253,388,1,4,Kingston,Australia
+723,New Zealand,Bangladesh,307,227,6,10,Karachi,New Zealand
+724,Pakistan,South Africa,358,359,8,7,Sydney,South Africa
+725,West Indies,England,252,203,0,2,Karachi,West Indies
+726,India,South Africa,317,324,0,4,Cape Town,South Africa
+727,New Zealand,India,397,390,0,8,Karachi,New Zealand
+728,Sri Lanka,India,245,243,10,6,Kingston,Sri Lanka
+729,West Indies,Pakistan,362,318,0,4,Mumbai,West Indies
+730,Pakistan,England,182,168,1,0,Kingston,Pakistan
+731,West Indies,Sri Lanka,242,217,9,5,Colombo,West Indies
+732,South Africa,Pakistan,236,249,7,5,Dhaka,Pakistan
+733,South Africa,England,223,341,3,7,Sydney,England
+734,South Africa,Sri Lanka,392,182,6,9,Auckland,South Africa
+735,Bangladesh,New Zealand,282,359,10,10,Karachi,New Zealand
+736,Afghanistan,India,275,282,4,7,Dhaka,India
+737,Pakistan,Sri Lanka,260,305,3,3,London,Sri Lanka
+738,West Indies,England,196,159,1,8,Karachi,West Indies
+739,India,South Africa,163,217,8,7,Kingston,South Africa
+740,New Zealand,Pakistan,227,313,2,5,Auckland,Pakistan
+741,England,West Indies,304,254,0,6,London,England
+742,Australia,Sri Lanka,165,156,7,7,Kabul,Australia
+743,New Zealand,Bangladesh,382,360,5,6,London,New Zealand
+744,Pakistan,West Indies,395,249,1,10,Dhaka,Pakistan
+745,Pakistan,West Indies,234,386,7,9,Kabul,West Indies
+746,West Indies,India,372,337,1,6,Kabul,West Indies
+747,South Africa,Bangladesh,330,267,3,1,Kabul,South Africa
+748,South Africa,England,331,303,7,3,Auckland,South Africa
+749,Bangladesh,New Zealand,306,295,1,9,Kingston,Bangladesh
+750,Afghanistan,Bangladesh,226,246,1,9,Auckland,Bangladesh
+751,Pakistan,West Indies,191,263,5,0,Kabul,West Indies
+752,India,Pakistan,368,183,10,1,Kabul,India
+753,Sri Lanka,Bangladesh,315,203,9,9,Auckland,Sri Lanka
+754,Pakistan,India,153,155,5,0,Sydney,India
+755,India,England,175,168,8,10,Kabul,India
+756,Pakistan,West Indies,280,155,0,6,Sydney,Pakistan
+757,West Indies,Afghanistan,308,170,3,7,Colombo,West Indies
+758,Pakistan,Australia,325,152,3,9,Kingston,Pakistan
+759,New Zealand,Australia,397,199,0,10,London,New Zealand
+760,Afghanistan,Pakistan,367,325,3,2,Kingston,Afghanistan
+761,South Africa,Australia,374,390,9,6,Colombo,Australia
+762,Sri Lanka,Australia,381,396,7,6,Kingston,Australia
+763,West Indies,Australia,367,364,6,9,Kabul,West Indies
+764,South Africa,India,170,379,6,5,Mumbai,India
+765,India,New Zealand,362,358,5,9,Dhaka,India
+766,Afghanistan,India,391,178,10,9,Auckland,Afghanistan
+767,South Africa,New Zealand,313,226,9,3,Sydney,South Africa
+768,Australia,Bangladesh,265,333,7,10,Karachi,Bangladesh
+769,South Africa,Sri Lanka,265,256,5,3,Sydney,South Africa
+770,New Zealand,England,218,289,7,2,Karachi,England
+771,New Zealand,South Africa,337,364,1,1,Dhaka,South Africa
+772,Pakistan,Afghanistan,250,293,5,0,Colombo,Afghanistan
+773,Australia,West Indies,319,350,8,7,Cape Town,West Indies
+774,England,New Zealand,328,230,6,3,Karachi,England
+775,Sri Lanka,New Zealand,278,253,4,2,Karachi,Sri Lanka
+776,West Indies,England,307,301,6,3,Cape Town,West Indies
+777,Australia,South Africa,361,299,1,8,Sydney,Australia
+778,Pakistan,Australia,341,377,10,9,London,Australia
+779,Bangladesh,India,183,338,1,10,London,India
+780,Bangladesh,West Indies,347,397,9,1,Dhaka,West Indies
+781,Bangladesh,West Indies,396,375,8,2,Kingston,Bangladesh
+782,England,Australia,184,359,4,9,Kabul,Australia
+783,New Zealand,Afghanistan,331,293,6,8,Kabul,New Zealand
+784,Bangladesh,Sri Lanka,300,301,4,1,Kabul,Sri Lanka
+785,England,South Africa,333,337,0,0,Mumbai,South Africa
+786,Australia,England,244,298,8,1,Kabul,England
+787,England,India,274,253,5,7,Dhaka,England
+788,Bangladesh,South Africa,349,243,10,4,Cape Town,Bangladesh
+789,New Zealand,Australia,274,256,10,0,Cape Town,New Zealand
+790,England,Sri Lanka,277,367,4,7,Mumbai,Sri Lanka
+791,Pakistan,Australia,254,347,0,5,Kingston,Australia
+792,Australia,Pakistan,325,364,0,10,Auckland,Pakistan
+793,India,West Indies,261,193,8,3,Sydney,India
+794,South Africa,Afghanistan,380,330,2,3,Kingston,South Africa
+795,Afghanistan,New Zealand,303,186,1,10,Cape Town,Afghanistan
+796,South Africa,Afghanistan,258,280,4,7,Auckland,Afghanistan
+797,Australia,Bangladesh,337,233,9,4,London,Australia
+798,New Zealand,West Indies,251,198,1,0,Dhaka,New Zealand
+799,India,Bangladesh,341,283,3,9,Dhaka,India
+800,New Zealand,South Africa,386,156,7,7,Karachi,New Zealand
+801,West Indies,Sri Lanka,190,289,0,0,Karachi,Sri Lanka
+802,South Africa,England,221,220,7,0,Auckland,South Africa
+803,South Africa,Sri Lanka,269,175,10,10,Kabul,South Africa
+804,Bangladesh,Sri Lanka,170,331,9,8,London,Sri Lanka
+805,New Zealand,West Indies,227,309,0,0,Auckland,West Indies
+806,India,New Zealand,388,188,2,4,Cape Town,India
+807,Australia,Pakistan,395,373,2,6,Kabul,Australia
+808,South Africa,Sri Lanka,199,382,2,5,Karachi,Sri Lanka
+809,West Indies,Bangladesh,301,193,1,5,Karachi,West Indies
+810,India,Sri Lanka,248,373,4,0,Mumbai,Sri Lanka
+811,India,New Zealand,251,369,5,1,Kabul,New Zealand
+812,Sri Lanka,England,253,266,10,7,Kingston,England
+813,Sri Lanka,England,262,359,0,0,Mumbai,England
+814,Afghanistan,Pakistan,380,323,7,4,Dhaka,Afghanistan
+815,Sri Lanka,Afghanistan,266,319,10,10,Karachi,Afghanistan
+816,West Indies,South Africa,260,311,0,9,Dhaka,South Africa
+817,Afghanistan,New Zealand,259,334,10,0,Auckland,New Zealand
+818,India,Sri Lanka,376,289,5,0,Karachi,India
+819,Sri Lanka,England,324,392,6,2,Kingston,England
+820,Australia,South Africa,233,240,3,9,Colombo,South Africa
+821,England,Pakistan,367,240,1,0,Sydney,England
+822,India,West Indies,369,169,5,5,Kingston,India
+823,New Zealand,Australia,273,314,5,1,Kingston,Australia
+824,Australia,Sri Lanka,221,385,4,3,Karachi,Sri Lanka
+825,India,Australia,175,397,0,8,Kabul,Australia
+826,Afghanistan,West Indies,200,267,6,1,Auckland,West Indies
+827,Sri Lanka,Pakistan,226,154,5,10,Cape Town,Sri Lanka
+828,Pakistan,Australia,167,157,6,4,Kabul,Pakistan
+829,New Zealand,India,305,253,5,2,Sydney,New Zealand
+830,India,West Indies,178,385,9,3,Dhaka,West Indies
+831,Bangladesh,Pakistan,235,374,0,0,Mumbai,Pakistan
+832,South Africa,England,244,324,4,5,Cape Town,England
+833,West Indies,India,159,352,9,10,Colombo,India
+834,England,Australia,207,313,5,0,Dhaka,Australia
+835,South Africa,Afghanistan,354,294,3,1,Cape Town,South Africa
+836,West Indies,England,300,395,10,10,London,England
+837,South Africa,Sri Lanka,208,353,7,9,Kabul,Sri Lanka
+838,Australia,Pakistan,394,285,8,4,Sydney,Australia
+839,India,New Zealand,263,181,9,2,Karachi,India
+840,Sri Lanka,South Africa,400,200,1,4,Kingston,Sri Lanka
+841,Bangladesh,Afghanistan,236,185,7,9,Auckland,Bangladesh
+842,Sri Lanka,South Africa,210,318,10,5,Sydney,South Africa
+843,Bangladesh,Australia,294,165,6,5,Sydney,Bangladesh
+844,New Zealand,Sri Lanka,195,319,6,6,Mumbai,Sri Lanka
+845,New Zealand,Bangladesh,184,180,0,6,Sydney,New Zealand
+846,Pakistan,South Africa,206,303,1,7,Sydney,South Africa
+847,England,New Zealand,171,229,10,3,Dhaka,New Zealand
+848,New Zealand,England,150,326,7,5,Mumbai,England
+849,England,Bangladesh,203,285,8,3,Dhaka,Bangladesh
+850,Sri Lanka,India,334,218,2,6,Colombo,Sri Lanka
+851,Australia,Bangladesh,182,325,4,6,London,Bangladesh
+852,South Africa,Australia,228,216,6,5,Cape Town,South Africa
+853,Australia,South Africa,388,324,0,0,London,Australia
+854,Pakistan,West Indies,165,388,3,6,Colombo,West Indies
+855,Bangladesh,India,261,336,1,2,Sydney,India
+856,South Africa,New Zealand,383,167,9,5,Dhaka,South Africa
+857,South Africa,Afghanistan,347,201,4,3,Cape Town,South Africa
+858,Sri Lanka,Australia,174,269,9,9,Karachi,Australia
+859,West Indies,South Africa,257,323,2,4,Sydney,South Africa
+860,Pakistan,Bangladesh,172,358,4,0,Colombo,Bangladesh
+861,South Africa,Australia,152,288,8,3,Colombo,Australia
+862,Afghanistan,Sri Lanka,333,215,7,10,Sydney,Afghanistan
+863,Bangladesh,Australia,251,312,1,3,Kabul,Australia
+864,Sri Lanka,New Zealand,332,175,10,6,Auckland,Sri Lanka
+865,Pakistan,England,356,284,0,9,Cape Town,Pakistan
+866,Pakistan,Afghanistan,231,168,0,1,Kingston,Pakistan
+867,Australia,England,220,389,2,4,Kingston,England
+868,Australia,South Africa,238,208,3,5,Kingston,Australia
+869,West Indies,Pakistan,254,390,7,7,Dhaka,Pakistan
+870,Bangladesh,South Africa,309,195,1,5,Karachi,Bangladesh
+871,South Africa,Pakistan,293,173,3,3,Kabul,South Africa
+872,England,New Zealand,377,305,0,6,Colombo,England
+873,England,Bangladesh,380,375,10,7,Karachi,England
+874,South Africa,Afghanistan,360,269,2,10,Auckland,South Africa
+875,India,New Zealand,178,388,3,10,Kabul,New Zealand
+876,Sri Lanka,India,326,263,1,10,Mumbai,Sri Lanka
+877,England,South Africa,168,386,4,2,London,South Africa
+878,South Africa,Pakistan,398,366,10,9,Karachi,South Africa
+879,Australia,Pakistan,344,329,9,5,Colombo,Australia
+880,Afghanistan,Australia,225,287,10,0,Karachi,Australia
+881,India,Pakistan,353,193,0,2,Auckland,India
+882,Bangladesh,Pakistan,326,250,2,0,Cape Town,Bangladesh
+883,New Zealand,Afghanistan,156,180,4,5,Cape Town,Afghanistan
+884,West Indies,Sri Lanka,162,252,9,0,Mumbai,Sri Lanka
+885,Sri Lanka,India,319,226,8,10,Colombo,Sri Lanka
+886,India,West Indies,309,376,5,1,Kingston,West Indies
+887,Bangladesh,India,181,291,4,7,Colombo,India
+888,West Indies,Sri Lanka,206,319,7,2,Mumbai,Sri Lanka
+889,India,Australia,199,258,1,9,London,Australia
+890,South Africa,West Indies,157,381,10,9,Kingston,West Indies
+891,Bangladesh,New Zealand,163,237,2,0,Auckland,New Zealand
+892,Pakistan,New Zealand,276,206,7,9,Auckland,Pakistan
+893,Bangladesh,England,365,349,0,2,Kingston,Bangladesh
+894,Sri Lanka,West Indies,315,331,9,8,Colombo,West Indies
+895,Pakistan,Afghanistan,296,293,1,8,Mumbai,Pakistan
+896,Bangladesh,Afghanistan,246,233,4,10,Dhaka,Bangladesh
+897,West Indies,Sri Lanka,351,188,7,9,Dhaka,West Indies
+898,India,Sri Lanka,326,366,8,9,London,Sri Lanka
+899,Australia,India,355,200,7,6,Kabul,Australia
+900,Bangladesh,New Zealand,264,215,8,6,Kabul,Bangladesh
+901,West Indies,New Zealand,251,363,2,0,Sydney,New Zealand
+902,West Indies,Bangladesh,236,298,8,1,Auckland,Bangladesh
+903,Sri Lanka,Australia,377,332,8,3,London,Sri Lanka
+904,Bangladesh,New Zealand,171,201,6,9,Cape Town,New Zealand
+905,Afghanistan,South Africa,321,305,8,0,Kingston,Afghanistan
+906,Sri Lanka,Pakistan,217,237,2,0,London,Pakistan
+907,West Indies,Sri Lanka,255,194,3,10,Kingston,West Indies
+908,Bangladesh,Sri Lanka,296,214,8,0,Karachi,Bangladesh
+909,Sri Lanka,Pakistan,376,204,4,5,Auckland,Sri Lanka
+910,West Indies,Pakistan,333,311,9,8,London,West Indies
+911,Sri Lanka,New Zealand,295,203,9,5,London,Sri Lanka
+912,West Indies,Sri Lanka,340,200,3,4,Colombo,West Indies
+913,Australia,England,330,288,4,7,Kabul,Australia
+914,Australia,South Africa,198,151,3,7,Sydney,Australia
+915,Pakistan,Australia,217,238,8,5,Kabul,Australia
+916,Bangladesh,India,259,213,2,10,Karachi,Bangladesh
+917,Pakistan,West Indies,226,237,3,10,Sydney,West Indies
+918,Pakistan,New Zealand,158,214,3,7,Auckland,New Zealand
+919,New Zealand,Afghanistan,166,242,5,5,Auckland,Afghanistan
+920,Australia,West Indies,196,154,5,0,Cape Town,Australia
+921,South Africa,New Zealand,238,300,7,9,Mumbai,New Zealand
+922,England,Bangladesh,311,207,7,9,Mumbai,England
+923,Sri Lanka,New Zealand,175,245,4,10,Colombo,New Zealand
+924,West Indies,Bangladesh,282,309,5,0,Colombo,Bangladesh
+925,England,New Zealand,314,185,4,8,Kingston,England
+926,West Indies,Afghanistan,334,361,2,8,Dhaka,Afghanistan
+927,Sri Lanka,West Indies,285,244,8,6,Sydney,Sri Lanka
+928,Pakistan,Afghanistan,350,202,4,2,Kingston,Pakistan
+929,India,Sri Lanka,153,304,7,5,Auckland,Sri Lanka
+930,Bangladesh,Pakistan,275,177,2,4,Kabul,Bangladesh
+931,Bangladesh,South Africa,258,356,8,3,Karachi,South Africa
+932,New Zealand,England,275,224,8,5,Auckland,New Zealand
+933,Pakistan,England,311,313,1,6,Colombo,England
+934,West Indies,New Zealand,288,366,2,0,Colombo,New Zealand
+935,Bangladesh,New Zealand,215,283,9,0,London,New Zealand
+936,Bangladesh,South Africa,186,172,4,1,Auckland,Bangladesh
+937,Afghanistan,Sri Lanka,159,364,5,4,London,Sri Lanka
+938,Afghanistan,New Zealand,151,220,1,5,Sydney,New Zealand
+939,Pakistan,Bangladesh,267,298,8,3,Dhaka,Bangladesh
+940,England,India,155,278,0,3,Cape Town,India
+941,South Africa,Pakistan,323,215,6,0,London,South Africa
+942,India,Australia,400,335,4,8,Karachi,India
+943,Pakistan,Afghanistan,181,159,0,3,London,Pakistan
+944,India,Afghanistan,258,334,2,3,Kingston,Afghanistan
+945,Afghanistan,South Africa,288,216,5,4,Dhaka,Afghanistan
+946,Sri Lanka,Australia,199,384,5,4,London,Australia
+947,New Zealand,Pakistan,174,296,3,5,Sydney,Pakistan
+948,Sri Lanka,England,160,281,7,10,Kabul,England
+949,Sri Lanka,Bangladesh,277,285,2,5,Colombo,Bangladesh
+950,New Zealand,Pakistan,210,383,0,10,Mumbai,Pakistan
+951,Afghanistan,West Indies,385,281,3,7,Dhaka,Afghanistan
+952,New Zealand,West Indies,220,314,10,7,Auckland,West Indies
+953,South Africa,Australia,371,207,6,0,Mumbai,South Africa
+954,Australia,West Indies,163,384,5,10,Dhaka,West Indies
+955,South Africa,Sri Lanka,307,363,3,0,Karachi,Sri Lanka
+956,Australia,India,354,249,2,2,Sydney,Australia
+957,New Zealand,Bangladesh,217,346,6,5,Mumbai,Bangladesh
+958,Australia,Bangladesh,240,364,6,7,Cape Town,Bangladesh
+959,New Zealand,India,151,262,6,9,Auckland,India
+960,India,Bangladesh,289,187,2,0,Colombo,India
+961,Sri Lanka,Pakistan,290,263,10,0,Cape Town,Sri Lanka
+962,South Africa,West Indies,269,297,8,0,Cape Town,West Indies
+963,Bangladesh,Pakistan,288,264,6,1,Dhaka,Bangladesh
+964,Bangladesh,Sri Lanka,176,230,7,9,Colombo,Sri Lanka
+965,India,Bangladesh,328,294,3,2,Dhaka,India
+966,Bangladesh,Afghanistan,280,150,7,6,Cape Town,Bangladesh
+967,England,India,353,337,1,1,Karachi,England
+968,Australia,England,175,196,4,8,Mumbai,England
+969,Sri Lanka,Afghanistan,251,221,1,6,Sydney,Sri Lanka
+970,South Africa,England,360,204,6,6,Auckland,South Africa
+971,West Indies,Afghanistan,153,207,0,9,Dhaka,Afghanistan
+972,India,New Zealand,221,335,3,8,Kabul,New Zealand
+973,India,Sri Lanka,293,400,2,10,Kabul,Sri Lanka
+974,West Indies,Australia,330,353,7,9,Kingston,Australia
+975,West Indies,England,352,157,3,2,Karachi,West Indies
+976,New Zealand,England,152,342,6,7,Kabul,England
+977,South Africa,Sri Lanka,341,176,8,3,Mumbai,South Africa
+978,Pakistan,India,321,175,6,7,Kingston,Pakistan
+979,England,Afghanistan,349,383,4,3,London,Afghanistan
+980,England,Pakistan,316,231,9,8,Kabul,England
+981,England,Sri Lanka,163,326,6,4,Sydney,Sri Lanka
+982,West Indies,New Zealand,383,381,0,10,Sydney,West Indies
+983,New Zealand,Afghanistan,385,156,4,8,Sydney,New Zealand
+984,South Africa,England,344,222,10,4,Dhaka,South Africa
+985,South Africa,Australia,281,349,10,0,Auckland,Australia
+986,India,New Zealand,317,335,5,2,Kingston,New Zealand
+987,Sri Lanka,South Africa,370,158,8,7,London,Sri Lanka
+988,Afghanistan,Bangladesh,396,199,0,2,Kingston,Afghanistan
+989,Australia,England,152,237,10,8,Cape Town,England
+990,Australia,India,221,202,9,2,Kingston,Australia
+991,Australia,Pakistan,394,354,7,0,Colombo,Australia
+992,Sri Lanka,England,335,160,3,0,London,Sri Lanka
+993,England,Australia,240,333,6,9,Kingston,Australia
+994,India,England,357,236,5,0,London,India
+995,Australia,Afghanistan,264,383,9,8,Colombo,Afghanistan
+996,England,South Africa,367,351,0,10,Dhaka,England
+997,Afghanistan,India,184,197,8,9,Kabul,India
+998,Sri Lanka,England,306,339,2,1,Cape Town,England
+999,Australia,Bangladesh,190,270,3,3,Mumbai,Bangladesh
+1000,England,Afghanistan,263,323,3,7,Auckland,Afghanistan
